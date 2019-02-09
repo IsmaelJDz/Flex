@@ -1,18 +1,14 @@
 .container {
-	padding: 1rem;
+	background-color: #00a1ff;
 	margin: auto;
-	width: 80vw;
-	height: 50vh;
-	border: medium solid #333;
-	background-color: steelblue;
-	
+	padding: 10px;
+	border: 1px solid #002d48;
+	height: 15vh;
+	width: 10vw;
 	display: flex;
-	flex-direction: row-reverse;
-
+	flex-direction: column-reverse;
 }
 
 .item {
-	border: thin solid #333;
-	font-size: 2rem;
-	background-color: deepskyblue;
+	border: 1px solid black;
 }
