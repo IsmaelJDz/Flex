@@ -1,0 +1,18 @@
+.container {
+	padding: 1rem;
+	margin: auto;
+	width: 80vw;
+	height: 50vh;
+	border: medium solid #333;
+	background-color: steelblue;
+	
+	display: flex;
+	flex-direction: row-reverse;
+
+}
+
+.item {
+	border: thin solid #333;
+	font-size: 2rem;
+	background-color: deepskyblue;
+}
